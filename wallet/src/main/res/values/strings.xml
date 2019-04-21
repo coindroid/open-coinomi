@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">Coinomi (dev)</string>
-    <string name="app_package">com.coinomi.wallet.dev</string>
+    <string name="app_package">com.coindroid.coinomi</string>
     <string name="action_scan_qr_code">Scan</string>
     <string name="action_share">Share</string>
     <string name="action_copy">Copy</string>

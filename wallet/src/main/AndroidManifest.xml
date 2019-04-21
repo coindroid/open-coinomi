@@ -201,15 +201,15 @@
 
         <provider
             android:name="com.coinomi.wallet.ExchangeRatesProvider"
-            android:authorities="com.coinomi.wallet.dev.exchange_rates"
+            android:authorities="com.coindroid.coinomi.exchange_rates"
             android:exported="false" />
         <provider
             android:name="com.coinomi.wallet.AddressBookProvider"
-            android:authorities="com.coinomi.wallet.dev.address_book"
+            android:authorities="com.coindroid.coinomi.address_book"
             android:exported="false" />
         <provider
             android:name=".ExchangeHistoryProvider"
-            android:authorities="com.coinomi.wallet.dev.exchange_history"
+            android:authorities="com.coindroid.coinomi.exchange_history"
             android:exported="false" />
 
         <service
